@@ -1,0 +1,15 @@
+{
+  "name": "alexa-disheroes-master",
+  "version": "1.0.0",
+  "description": "web",
+  "main": "server_alexa_verfier_middleware.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nir",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-verifier-middleware": "^1.0.2",
+    "express": "^4.17.1"
+  }
+}
